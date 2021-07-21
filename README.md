@@ -1,0 +1,2 @@
+# checkgit
+test git details
